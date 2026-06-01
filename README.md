@@ -59,7 +59,7 @@ Hello! I'm **Ankit Sharma**, a Python Software Engineer and Automation Architect
 <div align="center">
   <br/>
   
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ankit-Sharma1011&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" alt="Dhanpal Sharma github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ankit-Sharma1011&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" alt="Ankit Sharma github stats" /> 
   
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-Sharma1011&layout=compact&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" />
 
