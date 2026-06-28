@@ -6,7 +6,7 @@
 <img src="https://c.tenor.com/iZjSGTjKzyQAAAAC/tenor.gif">
 </div>
 
-## <img src="https://raw.githubusercontent.com/Shineii86/Emojis/main/People/Technologist.webp" alt="Technologist" width="25" height="25" /> About Me
+## 👨‍💻 About Me
 Hello! I'm **Ankit Sharma**, a Python Software Engineer and Automation Architect. I am a B.Tech Computer Science student passionate about building scalable automation systems and cloud-native solutions. I blend the world of technology with creative automation.
 
 - 🔭 **Current Work:** Architecting high-performance Telegram bots and cloud automation tools.
@@ -69,7 +69,7 @@ Hello! I'm **Ankit Sharma**, a Python Software Engineer and Automation Architect
 
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LastPerson07&theme=dark&hide_border=true&background=0d1117&stroke=0000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="Ankit Sharma streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit-Sharma1011&theme=dark&hide_border=true&background=0d1117&stroke=0000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="Ankit Sharma streak stats"/>
 
 </div>
 
