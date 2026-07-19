@@ -61,57 +61,6 @@
 
 <img align="right" alt="🦑" alt="I nerver said" src="https://github.com/user-attachments/assets/d1664fd3-5ab5-44de-8f1a-77f20806ad69" />
 <img align="right"  alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/medias.svg?p">
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ## <img src="images/Speech Balloon .png" alt="Speech Balloon" width="50" height="50" /> Quote To Live By
 > _"Simplicity is the soul of efficiency." – Austin Freeman_  
