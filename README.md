@@ -59,8 +59,56 @@
 | **[Naruto Shippuden](https://en.wikipedia.org/wiki/Naruto)** | **[Attack on Titan](https://en.wikipedia.org/wiki/Attack_on_Titan)** | **[86 Eight Six](https://en.m.wikipedia.org/wiki/86_(novel_series))** | **[Sword Art Online](https://en.wikipedia.org/wiki/Sword_Art_Online)** | **[Your Name](https://en.wikipedia.org/wiki/Your_Name)** |
 | The journey of Naruto Uzumaki has taught me the importance of never giving up and facing challenges head-on. | The depth of the world-building and emotional struggles inspires me to think about freedom and sacrifice. | A story of resilience and the fight for justice against the odds resonates with my personal aspirations. | SAO inspired my interest in virtual reality and the quest for connection. It's a perfect blend of technology and human emotion. | This movie explores fate, love, and the feeling of longing, which has influenced my views on connections across time. |
 
-<img align="right" alt="🦑" alt="I nerver said" src="https://github.com/user-attachments/assets/d1664fd3-5ab5-44de-8f1a-77f20806ad69" />
+<img align="right" alt="🦑" alt="I nerver said" src="images/I nerver said.png" />
 <img align="right"  alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/medias.svg?p">
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 ## <img src="images/Speech Balloon .png" alt="Speech Balloon" width="50" height="50" /> Quote To Live By
 > _"Simplicity is the soul of efficiency." – Austin Freeman_  
