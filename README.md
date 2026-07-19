@@ -108,6 +108,8 @@
 <br>
 <br>
 <br>
+<br>
+<br>
 
 
 ## <img src="images/Speech Balloon .png" alt="Speech Balloon" width="50" height="50" /> Quote To Live By
