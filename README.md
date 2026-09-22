@@ -34,10 +34,7 @@
 <!-- View counter - https://github.com/Ankit-Sharma1011/Simple-View-Counter -->
 <p align="center">
 <a href="https://www.youtube.com/@thelwkeymc?sub_confirmation=23">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
-  <a href="https://www.youtube.com/@thelwkeymc">
-    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
-  <a href="https://github.com/Ankit-Sharma1011?tab=repositories&sort=stargazers">
+    <a href="https://Ankit-Sharma1011.github.io/Bloom/"><img src="https://img.shields.io/badge/🌸%20Download%20Bloom%20for%20Mac-FF6B9A?style=for-the-badge&logo=apple&logoColor=white"></a>
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Ankit-Sharma1011?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/Ankit-Sharma1011?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Ankit-Sharma1011?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
